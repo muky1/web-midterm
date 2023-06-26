@@ -1,0 +1,4 @@
+Github:
+https://github.com/muky1/web-midterm
+Deploy:
+https://web-midterm-cqp32.ondigitalocean.app/
